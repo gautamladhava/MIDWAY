@@ -1,0 +1,649 @@
+@media (max-width:1400px) {
+    .secondary-btn {
+        min-width: 200px;
+        min-height: 60px;
+        font-size: 20px;
+    }
+}
+
+@media (max-width:1210px) {
+    .company-services-section .company-services-block {
+        margin: 0 -12px;
+        flex-wrap: wrap;
+    }
+    .terms-condition-section{
+        padding: 70px 0;
+    }
+    .terms-condition-section .terms-condition-content .heading-block{
+        margin-bottom: 70px;
+    }
+    .company-services-section .company-services-block .company-block {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .company-services-section .company-services-block .services-block {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .image-content-block .img-bg-block {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .image-content-block .img-bg-block .content-block{
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .image-content-block.left-img-block .img-bg-block .content-block{
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .image-content-block .blank-bg-block {
+        flex: 0 0 0%;
+        max-width: 0%;
+    }
+    .job-role-section .image-content-block .content-block{
+        padding: 50px 20px;
+    }
+    .address-section .addrss-location-block .feedback-content{
+        padding: 60px 20px;
+    }
+    .address-section .addrss-location-block .address-content{
+        padding: 30px 20px;
+    }
+    .address-section .addrss-location-block .inner-content{
+        padding-right: 0;
+    }
+    .job-role-section .image-content-block .content-block .job-role-content{
+        padding-right: 0;
+    }
+
+    .image-content-block .forestry-services{
+        padding: 60px 0;
+    }
+    .image-content-block .mine-site-services{
+        padding: 60px 0;
+    }
+}
+
+@media (max-width:991px) {
+    h1 {
+        font-size: 30px;
+    }
+    h2{
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    h5{
+        font-size: 18px;
+    }
+    .partener-section h5{
+        margin-bottom: 30px;
+    }
+    h3 {
+        font-size: 25px;
+    }
+    .bg-text{
+        font-size: 25px;
+    }
+    .heading-border{
+        padding-bottom: 15px;
+    }
+    .heading-border::after{
+        height: 5px;
+    }
+    .header .header-block .left-block .header-logo img {
+        width: 120px;
+        height: 40px;
+    }
+    .partener-section .partenter-list .image-content-card .image-block{
+        min-height: auto ;
+    }
+    .partener-section .partenter-list .image-content-card .content-block{
+        min-height: auto;
+    }
+    .partener-section .partenter-list .image-content-card .content-block p{
+        font-size: 16px;
+    }
+    .header .header-block .right-block .header-menu li a {
+        padding: 20px 10px;
+    }
+
+    .banner-section {
+        min-height: 510px;
+    }
+    .company-section{
+        min-height: 510px;
+    }
+    .servic-section{
+        min-height: 510px;
+        margin-bottom: 20px;
+    }
+    .forestry-services-section{
+        margin-bottom: 20px;
+    }
+    .mine-site-services-section{
+        margin-bottom: 20px;
+    }
+    .career-section{
+        min-height: 510px;
+    }
+    .services-section {
+        min-height: 510px;
+    }
+    .contact-section{
+        min-height: 510px;
+    }
+    .image-content-block .img-bg-block{
+        min-height: 500px;
+    }
+    .banner-section .banner-content {
+        margin-top: 30px;
+        padding: 20px 0;
+    }
+
+    .services-list-section .services-list-content {
+        padding: 30px;
+    }
+
+    .services-list-section {
+        min-height: 510px;
+    }
+    .image-content-block .img-bg-block .content-block {
+        padding: 30px 20px;
+    }
+    .footer .footer-logo-block .footer-logo img {
+        height: 30px;
+        width: 90px;
+    }
+
+    .footer .footer-logo-block .footer-logo {
+        margin-top: 25px;
+    }
+
+    .footer {
+        min-height: 250px;
+        padding: 35px 0;
+    }
+    .partener-section .partenter-list .image-content-card .image-block img{
+        max-width: 220px;
+    }
+    .join-team-section p{
+        font-size: 18px;
+        margin-bottom: 25px;
+    }
+    .join-team-section{
+        padding: 50px 0;
+    }
+    .apply-section{
+        padding: 60px 0;
+    }
+    .apply-section .input-form .left-block{
+        flex: 0  0 100%;
+        max-width: 100%;
+    }
+    .apply-section .input-form .right-block{
+        flex: 0  0 100%;
+        max-width: 100%;
+    }
+    .apply-section .submit-block .right-content img{
+        max-width: 200px;
+    }
+ 
+    .apply-section .input-form .input-field input{
+        width: 100%;
+        padding: 8px 15px;
+        border: 1px solid gray;
+    }
+    .apply-section .input-form .left-block input{
+        width: 20px;
+    }
+
+
+    .apply-section .input-form .right-block .right-content input{
+   
+    padding: 8px 15px;
+    }
+
+    .apply-section p{
+        margin-bottom: 20px;
+    }  
+    .partener-section{
+        padding: 60px 0;
+    }
+    .feature-services-section{
+        padding: 60px 0;
+    }
+    .feature-services-section .services-card-list{
+        margin: 0 -10px;
+    }
+    .feature-services-section .services-card-list .services-card{
+        padding: 0 10px;
+    }
+    .feature-services-section .services-card-list .services-card .content-block{
+        padding: 15px;
+    }
+}
+
+@media (max-width:768px) {
+    .btn {
+        padding: 8px;
+    }
+    .company-services-section .company-services-block .company-block {
+        min-height: 300px;
+    }
+    p{
+        font-size: 15px;
+    }
+    span{
+        font-size: 15px;
+    }
+    h6{
+        font-size: 18px;
+    }
+    .terms-condition-section{
+        padding: 40px 0;
+    }
+    .terms-condition-section .terms-condition-content .heading-block{
+        margin-bottom: 40px;
+    }
+    .address-section{
+        margin-bottom: 15px;
+    }
+    .address-section .addrss-location-block .inner-content .address{
+        margin-bottom: 15px;
+    }
+    .address-section .addrss-location-block .inner-content .submit-block{
+        margin-top: 7px;
+    }
+    .address-section .addrss-location-block .inner-content .input-field{
+        padding: 7px 0;
+    }
+    .address-section .addrss-location-block .inner-content .submit-block img{
+        max-width: 200px;
+        margin-bottom: 20px;
+    }
+    .image-content-block .outer-box{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .image-content-block .forestry-services{
+        padding: 30px 0;
+    }
+    .image-content-block .mine-site-services{
+        padding: 30px 0;
+    }
+    .inner-content{
+        max-width: 100%;
+    }
+ 
+    .image-content-block .image-block{
+        flex: 0 0 100%;
+        max-width: 100%;
+        min-height: 350px;
+    }
+    .job-role-section .image-content-block .content-block{
+        padding: 30px 20px;
+    }
+    .company-services-section .company-services-block .services-block {
+        min-height: 300px;
+    }
+    .feature-services-section .services-card-list{
+        flex-wrap: wrap;
+        margin: -10px;
+    }
+ 
+    .feature-services-section .services-card-list .services-card{
+        flex: 0 0 50%;
+        max-width: 50%;
+        padding: 10px;
+    }
+    .job-role-section .image-content-block{
+        flex-wrap: wrap;
+    }
+    .address-section .addrss-location-block .inner-content{
+        max-width: 100%;
+    }
+    .address-section .addrss-location-block .address-block{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .address-section .addrss-location-block  .location-block{
+        flex: 0 0 100%;
+        max-width: 100%;
+        min-height: 500px;
+    }
+    .address-section .addrss-location-block .inner-content .input-field input, .address-section .addrss-location-block .inner-content .input-field textarea{
+        padding: 8px 15px;
+        max-height: 100px;
+    }
+    .job-role-section .image-content-block .content-block .job-role-content{
+        max-width: 100%;
+    }
+    .job-role-section .image-content-block .image-block{
+        min-height: 400px;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .job-role-section .image-content-block .content-block{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .services-list-section .services-list-content {
+        padding: 15px;
+    }
+    .image-content-block .img-bg-block .content-block {
+        padding: 15px 10px;
+    }
+    .feature-services-section{
+        padding: 30px 0;
+    }
+    .apply-section .submit-block{
+        margin-top: 0px;
+        flex-wrap: wrap;
+    }
+    .apply-section .submit-block .left-content{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .apply-section .submit-block .right-content{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .apply-section p{
+        margin-bottom: 10px;
+    }
+    .partener-section .partenter-list{
+        margin: -10px;
+    }
+    .partener-section{
+        padding: 40px 0;
+    }
+    .apply-section{
+        padding: 40px 0;
+    }
+    .address-section .addrss-location-block .feedback-content{
+        padding: 40px 20px;
+    }
+    .partener-section .partenter-list li{
+        flex: 0 0 50%;
+        max-width: 50%;
+        padding: 10px;
+    }
+    .services-list-section {
+        min-height: 300px;
+    }
+    .image-content-block .img-bg-block{
+        min-height: 450px;
+    }
+    .heading-border{
+        padding-bottom: 10px;
+    }
+    .join-team-section{
+        padding: 25px 0;
+    }
+    h1 {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    h2{
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    h5{
+        font-size: 16px;
+    }
+    .partener-section h5{
+        margin-bottom: 20px;
+    }
+    .heading-border::after{
+        height: 3px;
+    }
+    .bg-text{
+        font-size: 18px;
+    }
+    h3 {
+        font-size: 18px;
+        margin-bottom: 13px;
+    }
+
+    .header {
+        padding-top: 10px;
+    }
+
+    .banner-section {
+        min-height: 400px;
+    }
+
+    .services-section {
+        min-height: 400px;
+    }
+    .partener-section .partenter-list .image-content-card .content-block p{
+        font-size: 15px;
+    }
+    .partener-section .partenter-list .image-content-card .image-block{
+        padding: 20px 30px;
+    }
+    .company-section{
+        min-height: 400px;
+    }
+    .servic-section{
+        min-height: 400px;
+        margin-bottom: 15px;
+    }
+    .mine-site-services-section{
+        margin-bottom: 15px;
+    }
+    .forestry-services-section{
+        margin-bottom: 15px;
+    }
+    .career-section{
+        min-height: 400px;
+    }
+    .contact-section .contact-content{
+        margin-top: 0;
+    }
+    .contact-section{
+        min-height: 300px;
+        margin-bottom: 15px;
+    }
+    .banner-section .banner-content {
+        margin-top: 0;
+        padding: 13px 0;
+    }
+
+    .banner-section .banner-content::after {
+        height: 3px;
+        width: 90px;
+    }
+    .image-content-block .img-bg-block .content-block{
+        left: 5%;
+        right: 5%;
+        width: 90%;
+        top: 50%;
+        transform: translate(0,-50%);
+    }
+    .image-content-block.left-img-block .img-bg-block .content-block{
+        left: 5%;
+        right: 5%;
+        width: 90%;
+        top: 50%;
+        transform: translate(0,-50%);
+    }
+    .footer {
+        padding: 25px 0;
+        position: relative;
+    }
+
+    .footer .footer-block {
+        flex-wrap: wrap;
+        margin: 0;
+    }
+
+    .footer .footer-logo-block {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 0;
+        margin-bottom: 15px;
+    }
+
+    .footer .footer-block .img-block {
+        flex: 0 0 100%;
+        max-width: 100%;
+        justify-content: flex-start;
+        padding: 0;
+    }
+
+    .footer .footer-block .bottom-up-img {
+        flex: 0 0 100%;
+        max-width: 100%;
+        display: flex;
+        justify-content: end;
+        padding: 0;
+    }
+
+    .up-arrow {
+        position: absolute;
+        top: 25px;
+        right: 25px;
+    }
+    .partener-section{
+        padding: 30px 0;
+    }
+    .apply-section{
+        padding: 30px 0;
+    }
+    .join-team-section p{
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .inner-content .services-list li{
+        font-size: 15px;
+    }
+}
+
+@media (max-width:576px) {
+    .btn {
+        height: auto;
+        min-height: auto;
+    }
+    .partener-section .partenter-list{
+        margin: -10px 0;
+    }
+    .partener-section .partenter-list li{
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 10px 0;
+    }
+    .apply-section .input-form .left-block{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .apply-section .input-form .right-block .right-content input{
+        margin-left: 10px;
+    }
+    .apply-section .submit-block .right-content{
+        justify-content: start;
+        align-items: start;
+    }
+    .apply-section .input-form .right-block{
+        justify-content: start;
+    }
+    .apply-section .input-form .right-block .right-content label {
+        display: block;
+        margin-bottom: 10px;
+        margin-right: 0;
+    }
+    .feature-services-section .services-card-list .services-card{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .partener-section .partenter-list .image-content-card .image-block img{
+        max-width: 180px;
+    }
+    .secondary-btn {
+        font-size: 16px;
+    }
+    .apply-section .input-form{
+        margin: 0;
+    }
+    .apply-section .input-form .input-field{
+        padding: 10px 0;
+    }
+    .apply-section .input-form .left-block{
+        padding: 10px 0;
+    }
+    .apply-section .submit-block .left-content{
+        padding: 10px 0;
+    }
+    .apply-section .submit-block .right-content{
+        padding: 10px 0;
+    }
+    .apply-section .input-form .right-block{
+        padding: 10px 0;
+    }
+    .apply-section .input-form .input-field{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .company-services-section .company-services-block .company-block {
+        min-height: 230px;
+    }
+
+    .services-list-section .services-list-content {
+        padding: 20px 10px;
+    }
+
+    .company-services-section .company-services-block .services-block {
+        min-height: 230px;
+    }
+
+    .secondary-btn {
+        padding: 12px;
+    }
+
+    .footer .footer-block .bottom-up-img img {
+        height: 20px;
+        width: 20px;
+    }
+
+    .footer .footer-block .img-block img {
+        height: 23px;
+        width: 45px;
+    }
+
+    .header .header-block .right-block .header-menu {
+        position: fixed;
+        top: 53px;
+        bottom: 0;
+        right: -250px;
+        height: 100%;
+        width: 250px;
+        background-color: #ffffff;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.5s;
+    }
+
+    .open-menu .header .header-block .right-block .header-menu {
+        right: 0;
+        transition: all 0.5s;
+    }
+
+    .header .header-block .right-block .header-menu li a {
+        padding: 15px 10px;
+    }
+
+    .header .header-block .right-block .toggle-button {
+        display: block;
+    }
+
+    .header .header-block .search-block .input-field .search-img img {
+        height: 15px;
+        width: 15px;
+    }
+}
